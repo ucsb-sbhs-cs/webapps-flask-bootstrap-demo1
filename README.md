@@ -3,4 +3,4 @@ The simplest possible flask+boostrap demo
 
 See it running here:
 
-https://webapps-flask-bootstrap-demo.herokuapps.com
+http://webapps-flask-bootstrap-demo.herokuapp.com/
